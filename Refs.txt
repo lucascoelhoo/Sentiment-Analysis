@@ -1,0 +1,9 @@
+http://www.cs.cornell.edu/people/pabo/movie-review-data/
+
+https://medium.com/@vasista/preparing-the-text-data-with-scikit-learn-b31a3df567e
+
+https://medium.com/@vasista/sentiment-analysis-using-svm-338d418e3ff1
+
+https://raw.githubusercontent.com/Vasistareddy/sentiment_analysis/master/data/train.csv
+
+https://raw.githubusercontent.com/Vasistareddy/sentiment_analysis/master/data/test.csv
